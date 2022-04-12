@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
  *
- *  * main
+ * main - Prints if the last digit
  *
  * Return: Always (Success)
  */
