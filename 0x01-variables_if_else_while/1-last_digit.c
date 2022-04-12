@@ -1,13 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
- 
-/**
- * main - Prints if the last digit
- *
- * Return: Always (Success)
- */
+ /**
+  * main -Prints if the last digit
+  *
+  * Return: Always (Success)
+  */
 int main(void)
+{
 	int n, lastd;
 
 	srand(time(0));
